@@ -17,6 +17,9 @@ The interactive site is here:
 http://spark.rstudio.com/adefries/ChemicalSpaceVis/
 
 
+#Working on making a shinyRGL example with same sdf file
 
 
-Some gists coming soon.
+#Add script to prep files in ChemmineR
+
+#Make gists to share
